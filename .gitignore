@@ -1,0 +1,12 @@
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+*.dll
+*.exe
