@@ -81,4 +81,6 @@ While this project focuses on the required **WPF** and **.NET 8** stack, my pass
 
 ---
 
-⚡ Crafted by Vijay Adithya B K
+<p align="center">
+  <i>⚡ Crafted by Vijay Adithya B K</i>
+</p>
