@@ -40,3 +40,7 @@ While this project focuses on the required **WPF** and **.NET 8** stack, my pass
 ## 👨‍💻 Architecture & Decisions
 - **Core Separation**: Business logic lives in `IndustrialMonitor.Core`, completely decoupled from the UI.
 - **Test-Driven Design**: The `MainViewModel` is designed with abstraction in mind, allowing unit tests to run without the WPF Dispatcher getting in the way.
+
+h---
+
+? Crafted by Vijay Adithya B K
